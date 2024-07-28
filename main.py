@@ -20,7 +20,4 @@ if __name__ == '__main__':
 
         # todo more out to to the console during training 
 
-        # todo comb through all the code to understand it 
-            # todo change some of the names to ones i know to make it sink in 
-
         # todo try with different envs
